@@ -85,7 +85,7 @@ function useDoubleClickWaiter(wait, delay = 300) {
             />
           </div>
           <div className='link-project'>
-            <a href="https://github.com/DimaxizISD-21/stopwatch-react-rxjs"><b>GitHub</b></a>
+            <a href="https://github.com/revartem/stopwatch"><b>GitHub</b></a>
           </div>
         </div>
       </div>
